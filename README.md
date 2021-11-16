@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning Front-end development;
 
-- 📫 How to reach me https://www.instagram.com/dudu_coradi/
-      https://www.linkedin.com/in/eduardo-coradi-92216a213/
+- 📫 How to reach me (https://www.instagram.com/dudu_coradi/) [Instagram]
+      (https://www.linkedin.com/in/eduardo-coradi-92216a213/) [Linkedin]
 
 <!---
 EduardoCoradi/EduardoCoradi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
